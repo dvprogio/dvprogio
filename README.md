@@ -5,6 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=dvprogio&label=Profile%20Views&color=0e75b6&style=flat" alt="dvprogio profile views" />
 </p>
 
+<h3 align="center">🐍 Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-contribution-grid-snake.svg"
+         alt="Snake animation" />
+  </picture>
+</p>
 <p align="center">
   I am a dedicated software developer with experience in building scalable web and mobile applications.
   I enjoy working across the full stack and continuously learning new technologies to deliver high-quality solutions.
@@ -66,6 +76,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+

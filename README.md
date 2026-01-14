@@ -64,3 +64,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-contribution-grid-snake.svg" />
+</picture>

@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dante Progio</h1>
-<h3 align="center">Frontend & Backend Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Dante Progio</h1>
+<h3 align="center">Frontend & Backend Developer</h3> -->
+<p align="center">
+  ![3d](https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dvprogio&label=Profile%20Views&color=0e75b6&style=flat" alt="dvprogio profile views" />
@@ -15,7 +18,6 @@
 </p>
 
 
-![3d](https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg)
 
 <p align="center">
   I am a dedicated software developer with experience in building scalable web and mobile applications.

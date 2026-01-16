@@ -1,8 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Dante Progio</h1>
-<h3 align="center">Frontend & Backend Developer</h3> -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
+ <h1 align="center">Hi 👋, I'm Dante Progio</h1>
+<h3 align="center">Frontend & Backend Developer</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dvprogio&label=Profile%20Views&color=0e75b6&style=flat" alt="dvprogio profile views" />

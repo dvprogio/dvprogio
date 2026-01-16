@@ -17,7 +17,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-    <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-metrics.svg"
+    <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/github-metrics.svg"
          alt="Snake animation" />
   </picture>
 </p>

@@ -18,10 +18,7 @@ jobs:
           user: dvprogio
 
           template: classic
-          base: header, activity, community, repositories
+          base: community
           config_timezone: UTC
           config_animations: no
           plugins_errors_fatal: no
-
-
-         

@@ -15,7 +15,7 @@
 </p>
 
 
-
+![3d](https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg)
 
 <p align="center">
   I am a dedicated software developer with experience in building scalable web and mobile applications.

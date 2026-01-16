@@ -14,6 +14,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+    <img src="https://raw.githubusercontent.com/dvprogio/dvprogio/output/github-metrics.svg"
+         alt="Snake animation" />
+  </picture>
+</p>
+
 
 <p align="center">
   I am a dedicated software developer with experience in building scalable web and mobile applications.

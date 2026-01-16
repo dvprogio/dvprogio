@@ -1,7 +1,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Dante Progio</h1>
 <h3 align="center">Frontend & Backend Developer</h3> -->
 <p align="center">
-  ![3d](https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg)
+
+![GitHub Metrics](https://raw.githubusercontent.com/dvprogio/dvprogio/main/github-metrics.svg)
+
 </p>
 
 <p align="center">
